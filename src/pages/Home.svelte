@@ -46,9 +46,10 @@
   }
 </style>
 
-<div class="landing-search">  
+<div class="landing-search box">  
   <form class="landing-input">
     <input type="text" class="landing-address">
-    <input type="submit" class="landing-submit">
+    <!-- <input type="submit" class="landing-submit"> -->
+    <input class="button is-danger is-rounded is-medium" type="submit" value="Submit">
   </form>
 </div>
