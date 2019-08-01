@@ -44,9 +44,10 @@
     width: fit-content;
     text-align: left;
   }
+
 </style>
 
-<div class="landing-search box">  
+<div class="landing-search">  
   <form class="landing-input">
     <input type="text" class="landing-address">
     <!-- <input type="submit" class="landing-submit"> -->
