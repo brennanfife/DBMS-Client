@@ -1,3 +1,6 @@
+#Click [HERE](https://github.com/brennanfife/DBMS-Server) to access DBMS Server
+
+
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
