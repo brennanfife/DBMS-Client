@@ -77,7 +77,7 @@
 
 <section class="login">
 
-  <div class="login-title">Fuck me this is fuck</div>
+  <div class="login-title">Sign Up</div>
   <form class="login-block" on:submit|preventDefault={handleLogin}>
     {#if hasWarning}
       <div class="message is-warning">
